@@ -42,6 +42,6 @@ int main()
 	cout << "Calculating monthly payment..." << endl;
 	cout << "Monthly Payment: $" << test.getMonthlyPayment() << endl;
 	cout << "Total amount paid over loan : $" << test.getPaymentTotal() << endl;
-	return 0;
+	return 0; 
 }
 
